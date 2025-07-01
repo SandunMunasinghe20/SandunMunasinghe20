@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandun Munasinghe</h1>
 <h3 align="center">A passionate Computer Engineer from Sri lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca720e7af3b92856e45f7a7545.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandunmunasinghe20&label=Profile%20views&color=0e75b6&style=flat" alt="sandunmunasinghe20" /> </p>
 
