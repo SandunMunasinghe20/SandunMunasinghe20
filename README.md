@@ -20,10 +20,11 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="mailto:msandunlakshan2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:msandunlakshan2001@gmail.com?subject=Hello%20Sandun"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sandun-lakshan-munasinghe-3b142824b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SandunMunasinghe20"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 ---
 
 ### 🛠️ Languages & Tools  
@@ -35,9 +36,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandunMunasinghe20&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunMunasinghe20&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SandunMunasinghe20&show_icons=true&theme=tokyonight&include_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunMunasinghe20&layout=compact&theme=tokyonight&include_private=true" alt="Top Languages"/>
 </p>
+
 
 ---
 
