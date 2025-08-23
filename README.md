@@ -39,7 +39,7 @@
 
 | Frontend | Backend | Database | Deployment | Others |
 |----------|---------|---------|-----------|--------|
-| React, Flutter | Spring Boot (Java), Node.js, Express.js | MySQL, PostgreSQL | CI/CD, AWS EC2 | JWT Auth, REST APIs, WebSockets |
+| React, Flutter | Spring Boot (Java), Node.js, Express.js | MySQL, MongoDB | CI/CD, AWS EC2 | JWT Auth, REST APIs, WebSockets |
 | HTML, CSS, JavaScript, TypeScript | REST APIs | Database Design | Cloud Setup, Monitoring | Figma UI/UX, Version Control (Git) |
 
 **Notable Projects:**  
@@ -61,7 +61,6 @@
 ---
 
 ### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandunMunasinghe20&show_icons=true&theme=tokyonight&include_private=true" alt="GitHub Stats"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunMunasinghe20&layout=compact&theme=tokyonight&include_private=true" alt="Top Languages"/>
 </p>
