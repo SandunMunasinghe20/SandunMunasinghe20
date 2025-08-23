@@ -34,7 +34,8 @@
 
 🧠 AI, ML & Data Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,scikitlearn" /> </p>
-**Additional ML Tools:** Pandas, NumPy, Matplotlib, Seaborn
+
+Additional ML Tools: Pandas, NumPy, Matplotlib, Seaborn
 ---
 
 ### 💻 Full-Stack Skills  
