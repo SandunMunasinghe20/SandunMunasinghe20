@@ -40,7 +40,7 @@
 | Frontend | Backend | Database | Deployment | Others |
 |----------|---------|---------|-----------|--------|
 | React, Flutter | Spring Boot (Java), Node.js, Express.js | MySQL, MongoDB | CI/CD, AWS EC2 | JWT Auth, REST APIs, WebSockets |
-| HTML, CSS, JavaScript, TypeScript | REST APIs | Database Design | Cloud Setup, Monitoring | Figma UI/UX, Version Control (Git) |
+| HTML, CSS, JavaScript | REST APIs | Database Design | Cloud Setup, Monitoring | Figma UI/UX, Version Control (Git) |
 
 **Notable Projects:**  
 - **Fullstack Job Portal**: React frontend + Spring Boot backend + MySQL, secure authentication, role-based access, resume uploads, real-time messaging. Deployed to AWS EC2 for testing but removed due to unnecessary fees.  
