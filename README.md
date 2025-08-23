@@ -30,10 +30,9 @@
 ### 🛠️ Languages, Frameworks & Tools  
 
 🛠️ Full-Stack & Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,flutter,mysql,postgres,php,html,css,js,ts,nodejs,express,docker,git,linux,aws,figma,unity" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,flutter,mysql,php,html,css,js,nodejs,express,git,linux,aws,figma" /> </p>
 🧠 AI, ML & Data Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,matlab,pandas,numpy,scikitlearn,matplotlib,seaborn" /> </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,scikitlearn" /> </p>
 ---
 
 ### 💻 Full-Stack Skills  
