@@ -29,9 +29,10 @@
 
 ### 🛠️ Languages, Frameworks & Tools  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,react,reactnative,flutter,mysql,postgres,php,html,css,js,ts,nodejs,express,docker,git,linux,aws,figma,unity,matlab" />
-</p>
+🛠️ Full-Stack & Web Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,flutter,mysql,postgres,php,html,css,js,ts,nodejs,express,docker,git,linux,aws,figma,unity" /> </p>
+🧠 AI, ML & Data Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,matlab,pandas,numpy,scikitlearn,matplotlib,seaborn" /> </p>
 
 ---
 
