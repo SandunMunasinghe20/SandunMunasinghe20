@@ -31,8 +31,10 @@
 
 🛠️ Full-Stack & Web Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,flutter,mysql,php,html,css,js,nodejs,express,git,linux,aws,figma" /> </p>
+
 🧠 AI, ML & Data Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,scikitlearn" /> </p>
+**Additional ML Tools:** Pandas, NumPy, Matplotlib, Seaborn
 ---
 
 ### 💻 Full-Stack Skills  
