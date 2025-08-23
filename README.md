@@ -68,4 +68,3 @@ Additional ML Tools: Pandas, NumPy, Matplotlib, Seaborn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunMunasinghe20&layout=compact&theme=tokyonight&include_private=true" alt="Top Languages"/>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SandunMunasinghe20&theme=react-dark&area=true)
