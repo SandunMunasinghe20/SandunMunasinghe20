@@ -11,7 +11,7 @@
 - 🎓 **Computer Engineering Undergraduate** passionate about building scalable applications & AI-powered systems.  
 - 🌱 Currently learning **Express.js** and advanced **AI/ML** concepts.  
 - 💼 Working on **VibeChat** (Real-time chat app).  
-- 🤝 Open to collaborations on **Full-Stack** & **Mobile App** projects.  
+- 🤝 Open to collaborations on **Full-Stack**, **AI/ML**, & **Mobile App** projects.  
 - 💬 Ask me about **Spring Boot, MySQL, React, AI Models, and Cloud Deployments**.  
 - 📧 Reach me at **msandunlakshan2001@gmail.com**  
 - 🌐 Portfolio & Projects: [GitHub Profile](https://github.com/SandunMunasinghe20)  
@@ -27,31 +27,41 @@
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
+### 🛠️ Languages, Frameworks & Tools  
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,react,reactnative,flutter,mysql,postgres,php,html,css,js,ts,nodejs,express,docker,git,linux,aws,figma,unity,matlab" />
 </p>
 
 ---
-<!--
-### 📊 GitHub Stats  
+
+### 💻 Full-Stack Skills  
+
+| Frontend | Backend | Database | Deployment | Others |
+|----------|---------|---------|-----------|--------|
+| React, Flutter | Spring Boot (Java), Node.js, Express.js | MySQL, PostgreSQL | CI/CD, AWS EC2 | JWT Auth, REST APIs, WebSockets |
+| HTML, CSS, JavaScript, TypeScript | REST APIs | Database Design | Cloud Setup, Monitoring | Figma UI/UX, Version Control (Git) |
+
+**Notable Projects:**  
+- **Fullstack Job Portal**: React frontend + Spring Boot backend + MySQL, secure authentication, role-based access, resume uploads, real-time messaging. Deployed to AWS EC2 for testing but removed due to unnecessary fees.  
+- **VibeChat**: Real-time chat app built with Flutter, Node.js, and Socket.IO, supporting secure messaging and persistent chat states.  
+
+---
+
+### 🤖 AI & Machine Learning Skills  
+
+| Category | Skills & Tools |
+|----------|----------------|
+| ML Fundamentals | Linear/Logistic Regression, Decision Trees, KNN, Clustering (K-means, DBSCAN), Model Evaluation |
+| Deep Learning | Neural Networks, CNNs, RNNs, LSTMs |
+| Dimensionality Reduction | PCA|
+| Data Handling & Visualization | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| Deployment | CI/CD, AWS (EC2) |
+
+---
+
+### 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SandunMunasinghe20&show_icons=true&theme=tokyonight&include_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunMunasinghe20&layout=compact&theme=tokyonight&include_private=true" alt="Top Languages"/>
 </p>
-
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandunMunasinghe20&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-### 📈 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandunMunasinghe20&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
--->
